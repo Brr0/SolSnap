@@ -9,7 +9,7 @@ export const mintText = [
  ];
 
 //header image in the ui. replace with your own
-export const image = "https://github.com/Brr0/SolSnap/blob/main/public/icon.png?raw=true"; 
+export const image = "/logo.png"; 
 
 //website title
 export const headerText = "SOL Snap";
